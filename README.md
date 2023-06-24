@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Urooj-Asi
+- 👋 Hi, I’m @Urooj-Asif
 - 🌱 I’m currently learning CSS
 
 <!---
